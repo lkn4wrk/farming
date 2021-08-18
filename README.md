@@ -11,4 +11,6 @@ npx hardhat compile
 
 npx hardhat node
 
-yarn deploy:ropsten
+npx hardhat deploy --network localhost
+
+npx hardhat test
