@@ -4,6 +4,8 @@ clone this repo
 
 cd farming
 
+make a .env file and put all the apis in it
+
 
 yarn install
 
